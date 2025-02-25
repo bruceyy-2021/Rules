@@ -10,7 +10,6 @@ DOMAIN-SUFFIX,yybruce.com
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,myqnapcloud
 DOMAIN-KEYWORD,adient
-
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 
